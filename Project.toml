@@ -1,0 +1,4 @@
+name = "fileIO"
+uuid = "10fa85dc-7de4-466b-a279-3cd6f9e8f436"
+authors = ["imamura-qoe <imamura@qoe.kuee.kyoto-u.ac.jp>"]
+version = "0.1.0"
